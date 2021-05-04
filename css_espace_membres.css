@@ -1,0 +1,21 @@
+body 
+{
+    background-color: grey;
+
+}
+
+#main-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#formulaire
+{
+    border: solid;
+    border-color: black;
+    border-radius: 30px;
+    padding: 20px;
+}
